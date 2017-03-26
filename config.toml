@@ -1,0 +1,9 @@
+languageCode = "en-us"
+title = "rmarketing.io"
+baseURL = "localhost"
+theme = "hyde"
+
+[params]
+  Author = "Matthias Bannert"
+  disqusShortname = "matthiasbannert"
+  themeColor = "theme-base-0e"
