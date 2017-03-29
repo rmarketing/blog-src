@@ -9,7 +9,7 @@ Tags = ["Online Marketing","Google Analytics"]
 +++
 
 
-In order to gain insights of your website from reports or data analysis, you have to collect data of the website usage first.  Google Analytics does the core reporting and data collection. In this post we explain how to setup up a Google Analytics account with standard page tracking. If you already have a working Google Analytics account you can skip this post.
+In order to gain insights to your website's traffic and user behavior from reports or data analysis, you have to collect data of the website usage first.  Google Analytics does the core reporting and data collection. In this post we explain how to setup up a Google Analytics account with standard page tracking. If you already have a working Google Analytics account you can skip this post.
 
    1. Sign in to Google Analytics or create an account: <https://analytics.google.com/analytics/>
    2. Click Admin (bottom left).

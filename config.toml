@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "rmarketing.io"
-baseURL = "localhost"
+baseURL = "http://rmarketing.io/blog/"
 theme = "hyde"
 
 [params]
