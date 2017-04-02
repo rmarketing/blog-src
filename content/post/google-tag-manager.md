@@ -21,4 +21,15 @@ manage all these tracking snippets. That way you are flexible to make changes
 or extend your tracking implementation in the future without touching the
 code of your website.
 
-## Setup Google Tag Manager (GTM)
+### Setup Google Tag Manager (GTM)
+
+
+
+#### 1. Create GTM Account
+
+To get started managing your tags using Tag Manager:
+
+1. Go to <https://www.google.com/analytics/tag-manager/> and create a Tag Manager account (you can use your existing Google account).
+2. Create a container for your site or app.
+
+![Creating an account in Google Tag Manager](/blog/images/gtm1_small.png)
