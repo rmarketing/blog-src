@@ -1,7 +1,6 @@
 +++
 date = "2017-03-24T18:40:24+01:00"
 title = "Get the most out of your Google Analytics Tracking"
-menu = "main"
 Categories = ["Tracking","Google Analytics"]
 Tags = ["Tracking","Google Analytics"]
 Description = "How to get the most out of your Google Analytics Tracking"

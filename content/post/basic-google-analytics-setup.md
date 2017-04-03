@@ -2,7 +2,6 @@
 Description = ""
 date = "2017-03-25T10:20:49+01:00"
 title = "Basic Google Analytics Setup"
-menu = "main"
 Categories = ["Online Marketing","Google Analytics"]
 Tags = ["Online Marketing","Google Analytics"]
 
