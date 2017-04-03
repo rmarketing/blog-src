@@ -31,4 +31,4 @@ Yet, you have to add the tracking code snippet to your website.
 Instead of adding the code snippet directly we recommend to use another tool out
 of Google's toolbox: the **Google Tag Manager (GTM)**. GTM is a nifty tool when
 comes to staying in charge of a plethora of tracking tools and services.
-Which is why we dedicated an [extra blog post to Google Tag Manager (GTM)](post/google-tag-manager).
+Which is why we dedicated an [extra blog post to Google Tag Manager (GTM)](/blog/post/google-tag-manager).
