@@ -4,6 +4,6 @@ baseURL = "http://rmarketing.io/blog/"
 theme = "hyde"
 
 [params]
+  disqusShortname = "blog-rmarketing-io"
   Author = "Matthias Bannert"
-  disqusShortname = "mbannert"
   themeColor = "theme-base-0d"
