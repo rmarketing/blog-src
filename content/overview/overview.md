@@ -6,5 +6,5 @@ Tags = ["Online Marketing","Google Analytics"]
 Description = ""
 layout = "page"
 dontshow = true
-
+type = "list"
 +++

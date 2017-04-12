@@ -56,7 +56,9 @@ In your Google Tag Manager Account proceed with the following steps:
 
 ![Creating an Google Analytics tag in GTM](/blog/images/gtm2_small.png)
 
-Now you have created the Google Analytics tag. Moreover you can watch this Youtube video that summarizes step 1. - 5. <https://youtu.be/irNpwlEn1ZM>
+Now you have created the Google Analytics tag. Moreover you can watch this Youtube video that summarizes step 1. - 5:
+
+{{< youtube irNpwlEn1ZM >}}
 
 #### 4. Publish and test the tag.
 
