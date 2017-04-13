@@ -2,9 +2,11 @@ languageCode = "en-us"
 title = "rmarketing.io"
 baseURL = "http://rmarketing.io/blog/"
 theme = "hyde"
+googleAnalytics = "UA-97338495-1"
 
 [params]
   disqusShortname = "blog-rmarketing-io"
   Author = "Matthias Bannert"
   themeColor = "theme-base-0d"
   description = "a blog from the creators of RAdwords. License cost free open source software and data driven services for marketing professionals."
+  googleAnalytics = "UA-97338495-1"
