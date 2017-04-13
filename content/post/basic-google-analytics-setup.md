@@ -1,5 +1,4 @@
 +++
-Description = ""
 date = "2017-03-25T10:20:49+01:00"
 title = "Basic Google Analytics Setup in 10 Easy Steps"
 Categories = ["Online Marketing","Google Analytics"]
@@ -11,7 +10,8 @@ In order to gain insights to your website's traffic and user behavior from repor
 
  <!--more-->
 
-   1. Sign in to Google Analytics or create an account: <https://analytics.google.com/analytics/>
+   1. Sign in to Google Analytics or create an account:
+   <a href="https://analytics.google.com/analytics/" target= "_blank">analytics.google.com</a>
    2. Click Admin (bottom left).
    3. In the ACCOUNT column, use the menu to select the account to which you want to add the property.
    If you have a lot of accounts, use the search box to help you find the right one.

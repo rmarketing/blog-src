@@ -21,7 +21,9 @@ There are two main types of ecommerce implementation methods:
 
 Both methods of ecommerce tracking can be implemented with Google Tag Manager. In this section we will focus on **standard ecommerce tracking**.
 
-Before we start with the implementation of the standard ecommerce tracking, there is a really useful Youtube video that is worth watching and might clarify further questions you have upfront the implementation: <https://youtu.be/ZKjlIhFJMCU>
+Before we start with the implementation of the standard ecommerce tracking, there is a really useful Youtube video that is worth watching and might clarify further questions you have upfront the implementation: 
+
+{{< youtube ZKjlIhFJMCU >}}
 
 The setup of the standard ecommerce tracking is split into three steps:
 
