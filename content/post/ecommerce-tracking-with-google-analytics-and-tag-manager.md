@@ -64,7 +64,7 @@ We want to test if the data layer is working correctly. Therefore best practice 
 
 On the confirmation page of the order, open the inspection tool of the web browser and click on console. You will find the data layer object as in the example above. If everything works correctly the data layer object contains the product information of your test order. Among other things there is an element which is called **event**. Copy and save the value of the event parameter. We will use it for the following configuration of the Google Tag Manager.
 
-![Testing the data layer object](img/gtm3_small.png)
+![Testing the data layer object](/blog/images/gtm3_small.png)
 
 2. Configuration of Google Tag Manager
 

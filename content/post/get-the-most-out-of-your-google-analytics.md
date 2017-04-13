@@ -1,6 +1,6 @@
 +++
 date = "2017-03-24T18:40:24+01:00"
-title = "Get the Most Out of Your Google Analytics Tracking"
+title = "Marketer's Guide to Google Analytics and E-Commerce Tracking"
 Categories = ["Tracking","Google Analytics"]
 Tags = ["Tracking","Google Analytics"]
 Description = "How to get the most out of your Google Analytics Tracking"
@@ -19,11 +19,11 @@ steadily observing metrics and assess them over time.
 Hence we start a series of blog posts to help you get the most out of
 your Google Analytics implementation.
 
-Our posts will address:
+Our (future) posts will address:
 
-   1. [the basic GA setup](post/basic-google-analytics-setup/), in order to get y'all on the same starting page.
-   2. how to use [Google Tag Manager (GTM)](how-to-use-google-tag-manager) to leverage the overhead of setting up various tracking tools.
+   1. [the basic GA setup](../basic-google-analytics-setup/), in order to get y'all on the same starting page.
+   2. how to use [Google Tag Manager (GTM)](../google-tag-manager) to leverage the overhead of setting up various tracking tools.
    3. how to keep track of performance indicators that drive your business, e.g.,
    online sales, revenues or subscriptions.
-   4. how to to enable e-commerce tracking
+   4. how to to [enable e-commerce tracking](../ecommerce-tracking-with-google-analytics-and-tag-manager/)
    5. link your analytics account to Google Adwords, Google Search Console (formerly known as webmaster tools)
