@@ -3,9 +3,10 @@ date = "2017-03-24T18:40:24+01:00"
 title = "Marketer's Guide to Google Analytics and E-Commerce Tracking"
 Categories = ["Tracking","Google Analytics"]
 Tags = ["Tracking","Google Analytics"]
-Description = "How to get the most out of your Google Analytics Tracking"
+Description = "Online tracking guideline for marketing professionals to get the most out of your Google Analytics."
 
 +++
+
 
 Many who use Google Analytics (GA) to track their websites' online traffic only
 set up a basic tracking implementation. I.e., copy and paste Google's tracking code

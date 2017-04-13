@@ -3,7 +3,7 @@ date = "2017-04-05T21:42:05+02:00"
 title = "E-commerce Tracking With Google Analytics and Google Tag Manager"
 Categories = ["Online Marketing","Google Analytics"]
 Tags = ["Online Marketing","Google Analytics"]
-Description = ""
+Description = "Detailed guideline to set up and configure e-commerce tracking with Google Analytics."
 
 +++
 
