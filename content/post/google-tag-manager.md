@@ -4,6 +4,8 @@ date = "2017-03-25T11:09:05+01:00"
 title = "Set Up Google Tag Manager in 3 Steps"
 Tags = ["Online Marketing","Google Analytics"]
 Description = "Use Google Tag Manager to efficiently manage different tracking and website analytics tools."
+[menu.main]
+name = "about"
 
 +++
 
